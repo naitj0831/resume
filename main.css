@@ -31,6 +31,8 @@
     /* use letters from step 2 to build the grid */
     grid-template-areas: 
         "h h h h h h h h h h h h"
+        "h h h h h h h h h h h h"
+        "h h h h h h h h h h h h"
         "b b b b e e e e a a a a"
         "b b b b e e e e s s s s"
         "b b b b e e e e s s s s"
